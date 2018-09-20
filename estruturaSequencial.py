@@ -109,7 +109,9 @@ print(f'\n O peso ideal para uma mulher é:{resultadoMulher:.2f}')"""
 #Gravar na variável excesso a quantidade de quilos além do limite e na variável multa o valor da multa que João deverá pagar.
 #Imprima os dados do programa com as mensagens adequadas.
 
-limite = 50
+
+
+"""     limite = 50
 multa = 4
 peso = float(input('Digite a quantidade de peixes: '))
 if peso <= limite:
@@ -119,7 +121,10 @@ else:
     print(f'O Senhor passou do limite  de {limite}KG, \n'
           f'então vocé vai pagar uma multa de 4 reais por KG \n'
           f'No total você pescou {peso}KG de peixe,entao o valor da multa é \n'
-          f'{excesso:.2f}')
+          f'{excesso:.2f}') """
+
+#####
+
 
 
 
